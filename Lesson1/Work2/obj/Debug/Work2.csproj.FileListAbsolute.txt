@@ -5,3 +5,10 @@ C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work2\obj\Debug\Work2.c
 C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work2\obj\Debug\Work2.csproj.CoreCompileInputs.cache
 C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work2\obj\Debug\Work2.exe
 C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work2\obj\Debug\Work2.pdb
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\bin\Debug\Work2.exe.config
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\bin\Debug\Work2.exe
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\bin\Debug\Work2.pdb
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\obj\Debug\Work2.csproj.AssemblyReference.cache
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\obj\Debug\Work2.csproj.CoreCompileInputs.cache
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\obj\Debug\Work2.exe
+C:\Users\Anton Stepanov\source\repos\local_geek_homework\Lesson1\Work2\obj\Debug\Work2.pdb
