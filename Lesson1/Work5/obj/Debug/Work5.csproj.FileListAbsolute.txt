@@ -1,0 +1,6 @@
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\obj\Debug\Work5.csproj.CoreCompileInputs.cache
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\bin\Debug\Work5.exe.config
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\bin\Debug\Work5.exe
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\bin\Debug\Work5.pdb
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\obj\Debug\Work5.exe
+C:\Users\Anton Stepanov\source\repos\HomeWork\GeekBrains\Work5\obj\Debug\Work5.pdb
